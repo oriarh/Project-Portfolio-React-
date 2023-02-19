@@ -1,2 +1,24 @@
-# Project-Portfolio-React-
-create a portfolio, using your new React skills to help set you apart from other developers whose portfolios don’t use the latest technologies
+# Project-Portfolio
+
+## Descriptions 
+This application contains some samples of my work along with ways to contact me. 
+
+## URL
+https://github.com/oriarh/Project-Portfolio-React-
+
+## Screenshot
+!["Image Screenshot"](./public/images/mainPageScreenshot)
+
+## Installation
+N/A
+
+## Usage
+Just click on the URL provided above and it will take you to my portfolio which has a little description about me and links to some of my projects.
+
+This web app was built using HTML and CSS
+
+## Credits
+N/A
+
+## License
+N/A
