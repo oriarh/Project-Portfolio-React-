@@ -1,0 +1,261 @@
+.headerLinks {
+    margin: auto !important;
+    border-bottom: 2px solid palegoldenrod;
+}
+
+@media screen and (max-width: 991px) {
+    .headerLinks {
+        text-align: center;
+        margin: 0.10% auto;
+    }
+}
+
+.headerName {
+    width: 320px;
+    margin: 0 20px;
+    font-weight: 300;
+    text-align: right;
+    text-decoration: none;
+    color: palegoldenrod !important;
+}
+
+@media screen and (max-width: 991px) {
+    .headerName {
+        margin: 1% auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .miniHeadings {
+        border-right:none !important;
+        text-align: center !important;
+    }
+}
+
+header {
+    background-color: darkcyan  ;
+    color: palegoldenrod;
+    padding: 1%;
+    margin-bottom: 10px;
+}
+
+.name {
+    margin-left: 4%;
+}
+
+#topImg {
+    width: 100%;
+    height: 310px;
+    object-fit: cover;
+    object-position: 100% 77%;
+}
+
+#workImg1 {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.hoverEffect {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+.hoverEffect:hover {
+    -webkit-filter: grayscale(0);
+    filter: none;
+    cursor: pointer
+}
+
+
+#workImg {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 18px;
+    right: 90px;
+    background-color: darkcyan;
+    font-size: 30px;
+    color: palegoldenrod;
+    padding: 10px;
+    font-weight: 200;
+}
+
+@media screen and (max-width: 991px) {
+    .bottom-right {
+        display: none;
+    }
+}
+
+.bottom-left1 {
+    position: relative;
+    bottom: 64px;
+    left: 0px;
+    background: darkcyan;
+    width: 130px;
+    text-align: right;
+    padding: 6px 6px 6px 6px;
+    color: palegoldenrod;
+}
+.bottom-left2 {
+    position: relative;
+    bottom: 64px;
+    left: 0px;
+    background: darkcyan;
+    width: 90px;
+    text-align: right;
+    padding: 6px 6px 6px 6px;
+    color: palegoldenrod;
+}
+.bottom-left3 {
+    position: relative;
+    bottom: 64px;
+    left: 0px;
+    background: darkcyan;
+    width: 184px;
+    text-align: right;
+    padding: 6px 6px 6px 6px;
+    color: palegoldenrod;
+}
+.bottom-left4 {
+    position: relative;
+    bottom: 64px;
+    left: 0px;
+    background: darkcyan;
+    width: 160px;
+    text-align: right;
+    padding: 6px 6px 6px 6px;
+    color: palegoldenrod;
+}
+.bottom-left5 {
+    position: relative;
+    bottom: 64px;
+    left: 0px;
+    background: darkcyan;
+    width: 168px;
+    text-align: right;
+    padding: 6px 6px 6px 6px;
+    color: palegoldenrod;
+}
+
+.imgContainer {
+    position: relative;
+    text-align: center;
+    margin-bottom: 48px;
+    margin-top: -10px;
+}
+
+.miniHeadings {
+    border-right: 3px solid dimgray;
+    font-size: 52px;
+    font-weight: 200;
+    text-align: center;
+    color: dimgray;
+}
+
+.aboutMe {
+    margin-top: 6% !important;
+}
+
+
+.aboutMeBody {
+    font-size: large;
+    text-align: center;
+}
+
+section {
+    margin: 30px
+}
+
+.contactMe {
+    margin: 2% 0 0 5% !important;
+}
+
+.contactMeHeading {
+    font-size: 52px;
+    font-weight: 200;
+    color: dimgray;
+}
+
+.contactMeLinks {
+    margin: 63px auto !important;
+    font-size: 20px;
+    border-bottom: 3px solid darkcyan;
+    color: dimgray;
+}
+
+.navLinks:link, .navLinks:visited {
+    color: palegoldenrod;
+    background-color: transparent;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: .25rem;
+}
+
+.navLinks.active {
+    color: palegoldenrod;
+    background-color: grey;
+    text-decoration: none;
+}
+
+.navLinks:hover {
+    color: black;
+    background-color: transparent;
+}
+
+.inputName, .inputEmail {
+    width: 70%;
+}
+
+.inputMessage {
+    width: 70%;
+    padding: 0 0 20% 0;
+}
+
+.myImage {
+    width: 10% !important;
+    height: auto;
+    margin: auto;
+}
+
+.portfolioMiniHeadings {
+    font-size: 52px;
+    font-weight: 200;
+    text-align: center;
+    color: dimgray;
+}
+
+.resumeSkillList {
+    border-right: 3px solid dimgray;
+    font-size: 50px;
+    font-weight: 200;
+    text-align: left;
+    color: dimgray;
+    margin: 2% 0 0 2%
+}
+.resumeSkillListLi {
+    border-right: 3px solid dimgray;
+    font-size: 25px;
+    font-weight: 200;
+    text-align: left;
+    color: dimgray;
+    margin: 0% 0 0 3%
+}
+
+.skillsMiniHeadings {
+    border-right: 3px solid dimgray;
+    font-size: 52px;
+    font-weight: 200;
+    text-align: center;
+    color: dimgray;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding-left: 15% !important;
+}
