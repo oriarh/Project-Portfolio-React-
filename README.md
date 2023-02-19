@@ -7,7 +7,7 @@ This application contains some samples of my work along with ways to contact me.
 https://github.com/oriarh/Project-Portfolio-React-
 
 ## Screenshot
-!["Image Screenshot"](./public/images/mainPageScreenshot)
+!["Image Screenshot"](/public/images/mainPageScreenshot.png)
 
 ## Installation
 N/A
