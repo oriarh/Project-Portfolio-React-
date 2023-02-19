@@ -4,7 +4,7 @@
 This application contains some samples of my work along with ways to contact me. 
 
 ## URL
-https://github.com/oriarh/Project-Portfolio-React-
+"https://oriarh.github.io/Project-Portfolio-React-"
 
 ## Screenshot
 !["Image Screenshot"](./public/images/mainPageScreenshot.png)
