@@ -22,12 +22,11 @@ export default function () {
         <nav>
             <div className="row headerRow">
                 <div className="col-md-12 col-lg-7">
-                    <h2 className="headerName"><Link className="headerName" to='/'>Osama Pervez Riarh</Link></h2>
+                    <h2 className="headerName"><Link className="headerName" to='/Project-Portfolio-React-'>Osama Pervez Riarh</Link></h2>
                 </div>
                 <div className="col-lg-auto headerLinks"><CustomLink to="/aboutme">About Me</CustomLink></div>
                 <div className="col-lg-auto headerLinks"><CustomLink to="/portfolio">Portfolio</CustomLink></div>
                 <div className="col-lg-auto headerLinks"><CustomLink to="/contactme">Contact Me</CustomLink></div>
-                {/* <div className="col-lg-auto headerLinks"><CustomLink to="https://drive.google.com/file/d/1kInTsRs9k0ulQEUUEHdztN93i7NKRKJe/view?usp=sharing">Resume</CustomLink></div> */}
                 <div className="col-lg-auto headerLinks"><CustomLink to="/resume">Resume</CustomLink></div>
             </div>
         </nav>

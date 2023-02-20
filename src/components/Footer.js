@@ -4,7 +4,7 @@ export default function () {
     return (
         <>
         <div className="container-fluid" >
-            <section class="row">
+            <section className="row">
                 <div className="col-lg-2 miniHeadings">Contact Me</div>
                 <div className="col-lg-10">
                     <div className="row">

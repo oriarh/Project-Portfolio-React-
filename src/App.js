@@ -10,17 +10,10 @@ import Resume from './components/Resume'
 
 export default function () {
 
-    const landingPage = (
-        <>
-            <Header/>
-            <HeroSection/>
-        </>
-    )
-
     return (
         <>
             <Routes>
-                <Route path='/' element={landingPage}/>
+                <Route path='/Project-Portfolio-React-' element={<HeroSection/>}/>
                 <Route path='/aboutme' element={<AboutMe/>}/>
                 <Route path='/contactme' element={<ContactMe/>}/>
                 <Route path='/portfolio' element={<Portfolio/>}/>

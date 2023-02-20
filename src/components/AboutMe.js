@@ -8,7 +8,7 @@ export default function () {
         <Header />
         <div className='container-fluid'>
             <section className="row aboutMe">
-                <img className='myImage' src='/images/imageforportfolio.jpeg'/>
+                <img className='myImage' src='./Project-Portfolio-React-/images/Imageforportfolio.jpeg'/>
             </section>
             <section id="aboutMe" className="row">
                 <div className="col miniHeadings">About Me</div>
