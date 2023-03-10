@@ -18,6 +18,12 @@ export default function () {
                                 </a>
                             </div>
                             <div className="col-lg-6 hoverEffect">
+                                <a href="https://smart-stack.herokuapp.com">
+                                    <img id="workImg" src="./Project-Portfolio-React-/images/ReadMe Gen.jpg" alt="Background"/>
+                                    <div className="bottom-left5">Smart Stack</div>
+                                </a>
+                            </div>
+                            <div className="col-lg-6 hoverEffect">
                                 <a href="https://oriarh.github.io/STABILITY/">
                                     <img id="workImg" src="./Project-Portfolio-React-/images/stability.jpg" alt="Background"/>
                                     <div className="bottom-left2">Stability</div>
@@ -34,12 +40,6 @@ export default function () {
                                     <img id="workImg" src="./Project-Portfolio-React-/images/Employee Tracker.jpg" alt="Background"/>
                                 </a>
                                     <div className="bottom-left4">Employee Tracker</div>
-                            </div>
-                            <div className="col-lg-6 hoverEffect">
-                                <a href="https://github.com/oriarh/README-Generator">
-                                    <img id="workImg" src="./Project-Portfolio-React-/images/ReadMe Gen.jpg" alt="Background"/>
-                                    <div className="bottom-left5">Readme Generator</div>
-                                </a>
                             </div>
                         </div>
                     </div>
